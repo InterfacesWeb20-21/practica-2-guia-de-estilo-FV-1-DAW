@@ -82,3 +82,21 @@ font-size:140%;
     width:6cm; 
     height:5cm;
 }
+.nosotros{
+    margin-top: 300px;
+}
+.mapa{
+    margin-top: -150px;
+    float: right;
+    margin-right: 900px;
+}
+.pago{
+    
+    margin-left: 300px;
+    margin-top: -150px;
+}
+.gracias{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: -75px;
+}
