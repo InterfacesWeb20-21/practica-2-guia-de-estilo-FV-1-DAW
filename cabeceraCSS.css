@@ -1,0 +1,84 @@
+.titulo {
+    text-align: center;    
+    margin-top: 5px;
+}
+header
+{
+margin:1px;
+border:1px solid gray;
+line-height:100%; 
+padding:1em;
+color:snow;
+background-color:wheat;
+clear:left;
+}
+
+.centrar{
+    text-align: center;
+}
+ul
+{	    
+list-style-type:none;
+padding:0;
+margin:0;
+}
+
+a.menu
+{
+display:block;
+float:left;
+width:200px;
+text-decoration:none;
+text-align:center;
+color:rgba(252, 185, 0, 0.671);
+background-color:rgb(158, 138, 101);
+padding:0.2em 0.6em;
+}
+
+a.menu:hover {background-color:blue;color:white;}
+li {display:inline;}
+
+body{
+    background-image: url('imagen.jpg')
+}
+
+.titulo2{
+    text-align: center;
+    margin-top: 100px
+}
+.historia{
+text-align:center;
+margin-top: 30px;
+margin-left: 50px;
+margin-right: 300px;
+font-size:160%; 
+}
+
+#izquierda img{
+    float: right;;
+    width:20%; 
+    height:20%;
+    margin-top:100px;
+    margin-left: 30px;   
+}
+
+.apartados{
+margin-top: 60px;
+text-align: left;
+font-size:140%; 
+}
+
+
+.titulo3{
+    text-align: left;
+    margin-top: 50px;
+    font-size:160%; 
+}
+
+#imagenes img{
+    margin-top:20px;
+    margin-bottom:100px;
+    margin-right:2cm;
+    width:6cm; 
+    height:5cm;
+}
