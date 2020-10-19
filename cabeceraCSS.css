@@ -44,7 +44,8 @@ body{
 
 .titulo2{
     text-align: center;
-    margin-top: 100px
+    margin-top: 100px;
+    color:rgba(243, 224, 118, 0.521);
 }
 .historia{
 text-align:center;
@@ -84,6 +85,7 @@ font-size:140%;
 }
 .nosotros{
     margin-top: 300px;
+    
 }
 .mapa{
     margin-top: -150px;
@@ -99,4 +101,5 @@ font-size:140%;
     text-align: right;
     margin-right: 200px;
     margin-top: -75px;
+    color:snow;
 }
